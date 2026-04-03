@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "execucao_global": 1,
+    "cenario": "success_todos",
+    "mensagem": "Execução concluída com sucesso consultando endpoint de tarefas.",
+    "inicio": "2026-04-03T16:47:31.912956",
+    "fim": "2026-04-03T16:47:33.337927",
+    "fonte": "jsonplaceholder",
+    "endpoint": "https://jsonplaceholder.typicode.com/todos",
+    "tipo_dado": "tarefas",
+    "total_registros": 200,
+    "concluidos": 90,
+    "pendentes": 110,
+    "duracao_segundos": 1.42,
+    "timestamp_consulta": "2026-04-03T16:47:33.336422"
+}
